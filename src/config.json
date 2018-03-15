@@ -1,0 +1,13 @@
+{
+  "facebook":{
+    "callbackUrl": "http://sarah.ratio.zone",
+    "pageAccessToken": "EAAGlJ9EeTmYBAI3NR3kSn1WcZCERlTjCHRUtJIAukuBZAsKuFDMopeNzRNuPZCyGeLZC0Jpx98sIu3EfloLEGFHdTubHRJrlqUqzjp7b7VwDG8mPwKDZCfZCnUEQtt9kx2MOF4glZBAdAMH3pRZCXePcFhPGLM652kxFTLPpqIce39FHpu5bh22O",
+    "verifyToken": "d3b529ab5b2d0f4bc086f2f8c9267d73",
+    "url": "https://graph.facebook.com/v2.6/me/messages"
+  },
+  "apiai": {
+    "sessionId": "choosewisely_bot",
+    "token": "1b1b7e27b520435a817ccc33feb0b4df",
+    "url": ""
+  }
+}
