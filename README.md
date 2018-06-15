@@ -1,5 +1,7 @@
 # Sarah
-The Choose Wisely chat bot.
+The FaceBook Messenger chat bot using Dialogflow.
+<br/>
+(not been tested with the new facebook platform)
 
 ### How To Run/Install
  1. npm i
@@ -63,3 +65,6 @@ The Choose Wisely chat bot.
     </ul>
   </li>
 </ol>
+
+<br/>
+Sandeepincode
